@@ -1,0 +1,68 @@
+{
+    "devoteeId": 5,
+    "listOfDevotee": null,
+    "remark": "Good Boy",
+    "comment": "Nice",
+    "created": null,
+    "updated": null,
+    "designationAndPermission": {
+        "designationId": 1,
+        "designationName": "Well-Wisher",
+        "read": false,
+        "update": false,
+        "defaultDesignation": false,
+        "write": false,
+        "delete": false
+    },
+    "role": {
+        "roleId": 6,
+        "role": "Admin"
+    },
+    "personalInformation": {
+        "personalId": 5,
+        "firstName": "Krishna",
+        "middleName": null,
+        "lastName": null,
+        "email": null,
+        "phoneNumber": null,
+        "whatsAppNumber": null,
+        "profilePictureImageLink": null,
+        "gender": null,
+        "dob": null,
+        "age": null,
+        "cast": null,
+        "marriageStatus": null,
+        "permanentAddress": {
+            "addressId": 4,
+            "pincode": "843302",
+            "fullAddress": null,
+            "district": null,
+            "state": null,
+            "landmark": null
+        },
+        "currentAddress": {
+            "addressId": 3,
+            "pincode": "843302",
+            "fullAddress": null,
+            "district": null,
+            "state": null,
+            "landmark": null
+        }
+    },
+    "occupationlInformation": {
+        "occupationId": 2,
+        "studyQualification": "B.Tech",
+        "occupation": null
+    },
+    "spiritualInformation": {
+        "spiritualId": 7,
+        "guruName": null,
+        "kcStartDate": null,
+        "facilitator": null,
+        "noOfRoundChanting": null,
+        "noOfHoursForPreaching": null,
+        "initiated": false,
+        "firstInitiation": false,
+        "secondInitiation": false
+    }
+}
